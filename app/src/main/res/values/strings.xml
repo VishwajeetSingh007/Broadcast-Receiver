@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckInternetConnection</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="about_disconnected">Wake up your internet Connection to Access This part of the Application</string>
+    <string name="connected">connected</string>
+    <string name="about_connected">Yes you are online ,the Internet Connection is Available</string>
+</resources>
